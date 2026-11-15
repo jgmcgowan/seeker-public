@@ -1,0 +1,1683 @@
+{
+  "way/515606383": {
+    "name": "Abington Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@abingtonpresbyterianchurch4784/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://apcusa.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "node/357321375": {
+    "name": "Addisville Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@Addisville/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://addisville.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/2032001953": {
+    "name": "Advent Lutheran Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@adventharleysville/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.adventharleysville.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/556892566": {
+    "name": "All Saints Episcopal Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@allsaintstorresdale/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://allsaintstorresdale.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/376480456": {
+    "name": "Annunciation Greek Orthodox Church",
+    "city": "philadelphia",
+    "url": "https://www.facebook.com/AEGOC/videos",
+    "kind": "facebook",
+    "persistent": false,
+    "source": "https://www.anngoc.org/",
+    "checked": "2026-10-31"
+  },
+  "way/220081787": {
+    "name": "Antioch Church of Philadelphia",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@antiochchurchlive/live",
+    "kind": "youtube",
+    "persistent": true,
+    "source": "https://www.antiochurch.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/648945583": {
+    "name": "Bethany Bible Fellowship Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@bethanybfcorg/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.bethanybfc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357276822": {
+    "name": "Bethany Evangelical Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@BethanyEPCChurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://bethanyepc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/678748202": {
+    "name": "Bible Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@biblebaptistchurchofwestch8676/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://biblebaptistwc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357277784": {
+    "name": "Blue Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@bluechurch3880/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.bluechurch.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "node/552403437": {
+    "name": "Calvary Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@victorycc-pa/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://victorycc.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "node/13909966868": {
+    "name": "Calvary Chapel Norristown",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/channel/UCo8R3dzg-EfLPoJuUw2lzHg/live",
+    "kind": "youtube",
+    "persistent": true,
+    "source": "https://www.calvarychapelnorristown.org/",
+    "lastStreamed": "2026-10-29",
+    "checked": "2026-10-31"
+  },
+  "way/207769063": {
+    "name": "Calvary Chapel of Delaware County",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/c/CalvaryChapelofDelawareCounty/live",
+    "kind": "youtube",
+    "persistent": true,
+    "source": "https://www.ccdelco.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1490324050": {
+    "name": "Calvary Independent Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@cibcmorton/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.cibc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/152353821": {
+    "name": "Calvary Lutheran Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@calvarylutheranchurch-west2746/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.clcwc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/12554235924": {
+    "name": "Calvary Orthodox Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@CalvaryOPCGlenside/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.calvaryglenside.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/348815379": {
+    "name": "Cathedral of the Immaculate Conception Ukrainian Catholic Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@ukrainiancatholicarcheparchial/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "http://www.ukrcathedral.com/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/800723504": {
+    "name": "Central Schwenkfelder Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@CentralSchwenkfelderChurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.cscfamily.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/332757057": {
+    "name": "Christ Church Philadelphia",
+    "city": "philadelphia",
+    "url": "https://vimeo.com/event/600571",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://christchurchphila.org/livestream/",
+    "checked": "2026-10-31"
+  },
+  "way/349279327": {
+    "name": "Christ Community Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@christcommunitychurchphila/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://cccphila.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1124253978": {
+    "name": "Christ Memorial Lutheran Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@christmemoriallutheranchur2014/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.christmemorial.us/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/654314238": {
+    "name": "Christ's Church of the Valley",
+    "city": "philadelphia",
+    "url": "https://ccvphiladelphia.online.church/",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://ccvlive.com/",
+    "checked": "2026-10-31"
+  },
+  "way/1309956705": {
+    "name": "Christian Stronghold Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@christianstrongholdchurch5140/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.christianstronghold.com/",
+    "lastStreamed": "2026-10-29",
+    "checked": "2026-10-31"
+  },
+  "way/298693770": {
+    "name": "Church of Saint Andrew and Saint Monica",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@st.andrewandst.monicachurc9544/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://ssandrewmonica.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/334179780": {
+    "name": "Church of the Holy Trinity",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@CHTRittenhouse/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://htrit.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/152343659": {
+    "name": "Church of the Holy Trinity",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@HolyTrinityWC/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.holytrinitywc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1434432654": {
+    "name": "Church of the Saviour",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@coswayne/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.coswayne.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357371536": {
+    "name": "Church of the Trinity Evangelical Lutheran",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@goodnews6805/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.trinityfairview.com/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "node/13301990403": {
+    "name": "Citylight Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@citylightphilly/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://citylightphilly.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/488322967": {
+    "name": "Concord Liberty Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@concordlibertychurch19342/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.concordliberty.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/555549117": {
+    "name": "Congregation Beth Or",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@BethOr1955/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.bethor.org/",
+    "lastStreamed": "2026-10-01",
+    "checked": "2026-10-31"
+  },
+  "way/250806783": {
+    "name": "Congregation Rodeph Shalom",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@RodephShalomPhiladelphia/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://rodephshalom.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/220638897": {
+    "name": "Conshohocken United Methodist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@conshohockenunitedmethodis5652/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://conshyunited.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/9938354395": {
+    "name": "Cornerstone Christian Fellowship Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@cornerstonechristianfellow5349/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.cornerstonewestchester.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/5708951112": {
+    "name": "Cornerstone Christian Ministries",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@cornerstonechristianminist729/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.cornerstonechristianministries.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/12554078530": {
+    "name": "Cornerstone Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@cornerstonepresbyterianchu6176/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://cornerstoneopc.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/223610544": {
+    "name": "Covenant Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@covenantfrazer/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://covenantfrazer.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/948209185": {
+    "name": "Crossroads Community Church",
+    "city": "philadelphia",
+    "url": "https://vimeo.com/event/852502",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://www.crossroadspca.com/livestream",
+    "checked": "2026-10-31"
+  },
+  "node/357316840": {
+    "name": "Delaware County Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@DelawareCountyBaptistChurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://dcbc.site/",
+    "lastStreamed": "2026-10-29",
+    "checked": "2026-10-31"
+  },
+  "node/528916246": {
+    "name": "Delaware Valley Christian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@delawarevalleychristianchu1490/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.visitdvcc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357363318": {
+    "name": "Elam United Methodist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@elamumc2104/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.elamumc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/785504475": {
+    "name": "Emmanuel Church in Philadelphia",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/channel/UCH1v4hAngAofngcLc2LSoaA/live",
+    "kind": "youtube",
+    "persistent": true,
+    "source": "https://iemmanuel.org/live/45165",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/819566158": {
+    "name": "Epiphany Fellowship Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@epiphanyfellowship/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.epiphanyfellowship.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357372591": {
+    "name": "Evansburg United Methodist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@eumc/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.evansburgumc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357372628": {
+    "name": "Fairview Village Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@TheVillageChurchPA/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://fairviewvillagechurch.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/5690804971": {
+    "name": "Faith Tabernacle Church",
+    "city": "philadelphia",
+    "url": "https://faithtabernaclepa.com/live-stream",
+    "kind": "site",
+    "persistent": true,
+    "source": "https://faithtabernaclepa.com/live-stream",
+    "checked": "2026-10-31"
+  },
+  "way/570462414": {
+    "name": "Feasterville Community Reformed Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/channel/UC0dSdMiSmpAwlkVfWhWpDjA/live",
+    "kind": "youtube",
+    "persistent": true,
+    "source": "https://fcrchurch.org/livestream",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/792373705": {
+    "name": "Fellowship Bible Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@fbcphilly/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.fbcefree.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/2952900401": {
+    "name": "First Baptist Church of Ogden",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@firstbaptistchurchofogden3355/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.fbcogden.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/1581094160": {
+    "name": "First Presbyterian Church of Ambler",
+    "city": "philadelphia",
+    "url": "https://vimeo.com/event/390396",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://www.fpcambler.org/",
+    "checked": "2026-10-31"
+  },
+  "way/683578043": {
+    "name": "First Presbyterian Church of Phoenixville",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@fpcphoenixville7042/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://fpc-phoenixville.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/152344350": {
+    "name": "First Presbyterian Church of West Chester",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@firstpreswc/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.firstpreswc.com/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/341092962": {
+    "name": "First Presbyterian Church Philadelphia",
+    "city": "philadelphia",
+    "url": "https://vimeo.com/event/1176810",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://www.fpcphila.org/live",
+    "checked": "2026-10-31"
+  },
+  "way/336748940": {
+    "name": "First Unitarian Church of Philadelphia",
+    "city": "philadelphia",
+    "url": "https://philauu.org/online/",
+    "kind": "site",
+    "persistent": true,
+    "source": "https://philauu.org/online/",
+    "checked": "2026-10-31"
+  },
+  "way/1328387658": {
+    "name": "First United Methodist Church of Germantown",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@fumcogphilly/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.fumcog.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "node/1687393639": {
+    "name": "Good News Phildelphia Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@Goodnewsphiladelphiachurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.goodnewsphila.org/",
+    "lastStreamed": "2026-10-25",
+    "checked": "2026-10-31"
+  },
+  "node/357372856": {
+    "name": "Goshen Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@goshenbaptistchurch895/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://goshenbaptist.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1126757679": {
+    "name": "Gospel Light Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@LivingWordKJV/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://glbcphilly.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1338482641": {
+    "name": "Grace Lutheran Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@gracebroomall/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.gracebroomall.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/648945584": {
+    "name": "Grace Lutheran Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@gracelutheranhatfield/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://gracelutheranhatfield.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/495282014": {
+    "name": "GraceCrossing Community Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@gracecrossingcommunitychur7977/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.gracecrossingcc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357288347": {
+    "name": "Great Valley Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@gvpres/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.gvpres.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/358707324": {
+    "name": "Green Tree Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@andrewhallman1419/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "http://greentreecob.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/891384158": {
+    "name": "Heidelberg United Church of Christ",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@heidelbergchurch4850/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://heidelbergucc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/779952567": {
+    "name": "Holy Cross Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@holycrossbaptistchurch4960/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://holycrossbc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/495282047": {
+    "name": "Holy Ghost Orthodox Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/channel/UCYWmfsAHFgOFkumjNcDAJ4Q/live",
+    "kind": "youtube",
+    "persistent": true,
+    "source": "https://www.holyghostphoenixville.org/live",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/296257708": {
+    "name": "Hope Community Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@HopeCCofKOP/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://hope-cc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/517126871": {
+    "name": "Hope Community Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@hccwg/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://hccwg.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/1206454278": {
+    "name": "Hope Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@explorehopechurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://explorehopechurch.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/8942552222": {
+    "name": "House Of Glory Philly",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@HouseOfGloryPhilly/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.houseofgloryphilly.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357373330": {
+    "name": "Huntingdon Valley Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@huntingdonvalleypresbyteri9193/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.hvpc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/7392720059": {
+    "name": "Iglesia Mision Evangelica",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@IglesiaMisi%C3%B3nEvang%C3%A9lica/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.misionevangelica.church/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/540551420": {
+    "name": "In The Light Ministries",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@reignphl/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://reigninphilly.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/152346594": {
+    "name": "Iron Works Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@ironworkschurchwestchester1961/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://ironworkswestchester.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "node/12950694749": {
+    "name": "Iron Works Church Phoenixville",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@ironworkschurchphoenixvill1888/live",
+    "kind": "youtube",
+    "persistent": true,
+    "source": "https://ironworkschurch.org/livestream",
+    "lastStreamed": "2026-10-19",
+    "checked": "2026-10-31"
+  },
+  "way/1208805760": {
+    "name": "ISKCON Philadelphia Hare Krishna temple",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@ISKCONPHILADELPHIA/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.iskconphiladelphia.com/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/1472874450": {
+    "name": "Jeffersonville Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@jefersonvillepresbyterianc7010/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://jeffersonvillepresbyterian.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/957628799": {
+    "name": "Jehovah Jireh Parish",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@ccc.jehovahjirehparish/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.cccjehovahjireh.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/3000587800": {
+    "name": "Jubilee Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@jubileekapc/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.jubileechurch.net/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/526320941": {
+    "name": "Keystone Fellowship",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@keystonemv/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.keystonemv.church/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/961137958": {
+    "name": "Knox Orthodox Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/channel/UCDtvxNTXHjh-KYxnTZAqtIQ/live",
+    "kind": "youtube",
+    "persistent": true,
+    "source": "https://knox-presbyterian.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357373460": {
+    "name": "Lansdale Life Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@LansdaleLifeChurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.lansdalelife.com/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/1066837252": {
+    "name": "Lansdale Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@LansdalePresbyterianChurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.lansdalepres.org/",
+    "lastStreamed": "2026-10-19",
+    "checked": "2026-10-31"
+  },
+  "way/1211724337": {
+    "name": "LCBC",
+    "city": "philadelphia",
+    "url": "https://lcbc.online.church/",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://www.lcbcchurch.com/locations/harleysville",
+    "checked": "2026-10-31"
+  },
+  "way/303561445": {
+    "name": "Lehman Memorial United Methodist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@lehmanchurchhatboro/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://lehmanumc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/252221806": {
+    "name": "Living Word Community",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@lwcphilly/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://lwcphilly.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/720258713": {
+    "name": "Lower Providence Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@lowerprovidencepresbyteria4797/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.lppcmin.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/708305293": {
+    "name": "Main Line Reform Temple",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@mainlinereformtemple/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://mlrt.org/",
+    "lastStreamed": "2026-10-01",
+    "checked": "2026-10-31"
+  },
+  "way/1459076079": {
+    "name": "Manoa Community Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@ManoaCommunityChurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://manoa.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/555769331": {
+    "name": "Media Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@MediaPresbyterianChurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.mediapresbyterian.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "node/983657695": {
+    "name": "Middletown Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@middletownchurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.middletown.church/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/338920265": {
+    "name": "Mother Bethel African Methodist Episcopal Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@motherbethel/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://motherbethel.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1135715608": {
+    "name": "Mount Hope United Methodist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@mounthopeumc3757/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.mthope.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/452898912": {
+    "name": "Narberth Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@narberthpres/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.narberthpres.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/264033470": {
+    "name": "Nativity of Our Lord Catholic Church",
+    "city": "philadelphia",
+    "url": "https://vimeo.com/event/4508741",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://www.noolp.org/",
+    "checked": "2026-10-31"
+  },
+  "node/357352221": {
+    "name": "New Life Community Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@NewLifeCCHV/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.newlifehv.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/13117205842": {
+    "name": "New Life Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@newlifechurchofglenside/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://newlifeglenside.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/683618485": {
+    "name": "New Story Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@newstorypxv/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.newstorychurch.life/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/693542008": {
+    "name": "North Penn Church of Christ",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@northpennchurchofchrist9715/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.northpennchurchofchrist.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/886594336": {
+    "name": "Norwood United Methodist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@norwoodumcofpennsylvania4823/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.norwoodumc.org/",
+    "lastStreamed": "2026-10-01",
+    "checked": "2026-10-31"
+  },
+  "node/12554834632": {
+    "name": "Olney Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@olneybaptistchurch3267/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://olneybaptist.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357373783": {
+    "name": "Oreland Evangelical Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@orelandepc/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://orelandpres.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/514356640": {
+    "name": "Our Lady of Perpetual Help Byzantine Catholic Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@OLPH_LevittownPA/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.olphbyzpa.org/",
+    "lastStreamed": "2026-10-01",
+    "checked": "2026-10-31"
+  },
+  "way/463014976": {
+    "name": "Oxford Valley Chapel",
+    "city": "philadelphia",
+    "url": "https://vimeo.com/event/2999120",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://oxfordvalleychapel.org/pages/livestream",
+    "checked": "2026-10-31"
+  },
+  "way/75659648": {
+    "name": "Paoli United Methodist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@PaoliMethodist/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://paolimethodist.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1410945828": {
+    "name": "Peace Lutheran Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@peace-kop/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.peacekop.com/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/757372351": {
+    "name": "Philadelphia Boulevard Seventh-day Adventist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@Philadelphiaboulevardsdachurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://philadelphiaboulevardpa.adventistchurch.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1214663335": {
+    "name": "Philadelphia Episcopal Cathedral",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@PhiladelphiaEpiscopalCathedral/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.philadelphiacathedral.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/6943956406": {
+    "name": "Philadelphia Korean Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@philadelphiakpc4589/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.philapres.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/7297853024": {
+    "name": "Philippian Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@philippianbaptistchurch8323/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.philippianbaptist.org/",
+    "lastStreamed": "2026-10-27",
+    "checked": "2026-10-31"
+  },
+  "way/692349548": {
+    "name": "Plains Mennonite Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@plainsmennonitechurch9634/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.plainsmennonitechurch.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/674160328": {
+    "name": "Prince of Peace",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@princeofpeacebcphilly2761/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.popbap.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1485159473": {
+    "name": "Proclamation Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@proclamationpresbyterianch3455/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.proclamation.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/839424255": {
+    "name": "Real Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@REAL_Church/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://realchurchbrookhaven.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/274267311": {
+    "name": "Restoration Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@restorationpca7253/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.restorationpca.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/527640275": {
+    "name": "Resurrection of Our Lord Church",
+    "city": "philadelphia",
+    "url": "https://www.facebook.com/resurrectphila/live",
+    "kind": "facebook",
+    "persistent": false,
+    "source": "https://resurrectphila.org/",
+    "checked": "2026-10-31"
+  },
+  "node/5262891096": {
+    "name": "Ridley Park Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@ridleyparkpresbyterianchur2341/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://rppcusa.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1451257940": {
+    "name": "Risen Hope Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@risenhopechurch-prospectpa8726/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://risenhopechurch.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/758466393": {
+    "name": "Saint Cyril of Jerusalem Catholic Church",
+    "city": "philadelphia",
+    "url": "https://vimeo.com/event/6289811",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://saint-cyril.com/",
+    "checked": "2026-10-31"
+  },
+  "node/5686422305": {
+    "name": "Saint Daniels United Methodist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@stdanielsumcchester6042/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.saintdanielsumc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/444675543": {
+    "name": "Saint Demetrios Greek Orthodox Church",
+    "city": "philadelphia",
+    "url": "https://saintdemetrios.org/livestream/",
+    "kind": "site",
+    "persistent": true,
+    "source": "https://saintdemetrios.org/livestream/",
+    "checked": "2026-10-31"
+  },
+  "way/705268150": {
+    "name": "Saint Eleanor Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@StEleanorCatholicChurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.steleanor.com/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/995438040": {
+    "name": "Saint Francis-in-the-Fields Episcopal Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@stfrancis-in-thefieldsepis833/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://stfrancisfields.com/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/1450938785": {
+    "name": "Saint George Orthodox Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@st.georgeorthodoxchurchupp7477/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.saintgeorgeupperdarby.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/2710897695": {
+    "name": "Saint John Fisher Roman Catholic Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@St.JohnFisherBoothwyn/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.stjohnfisherchurch.com/",
+    "lastStreamed": "2026-10-22",
+    "checked": "2026-10-31"
+  },
+  "node/964080317": {
+    "name": "Saint Katherine of Siena",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@st.katharineofsienawayne3185/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.stkatharineofsiena.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357309046": {
+    "name": "Saint Luke's United Church of Christ",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@stlukesfellowshipchurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.stlukesfellowshipchurch.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/164655923": {
+    "name": "Saint Mary's Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@st.marysatpenn8907/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.stmarysatpenn.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/7382858049": {
+    "name": "Saint Patrick Church",
+    "city": "philadelphia",
+    "url": "https://boxcast.tv/channel/dbrtjuxc8afqnnrxsov5",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://saintpatrick-norristown.net/",
+    "checked": "2026-10-31"
+  },
+  "node/357310466": {
+    "name": "Saint Peter's Episcopal Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@st.petersepiscopalchurchgl6265/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.stpetersglenside.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/495282055": {
+    "name": "Saint Peter's Episcopal Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@saintpetersepiscopalchurch2114/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://saintpeterschurch.net/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/389141080": {
+    "name": "Saint Robert Bellarmine",
+    "city": "philadelphia",
+    "url": "https://www.facebook.com/SaintRobertWarrington/videos",
+    "kind": "facebook",
+    "persistent": false,
+    "source": "https://saintrobertwarrington.org/",
+    "checked": "2026-10-31"
+  },
+  "node/12553246362": {
+    "name": "Saint Sharbel Maronite Catholic Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@saintsharbelpennsylvania3957/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.stsharbelpa.org/",
+    "lastStreamed": "2026-10-17",
+    "checked": "2026-10-31"
+  },
+  "way/1365027888": {
+    "name": "Saint Sophia Greek Orthodox Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@StSophiaVF/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.saintsophiachurch.org/",
+    "lastStreamed": "2026-10-29",
+    "checked": "2026-10-31"
+  },
+  "way/456629167": {
+    "name": "Saint Thomas' Episcopal Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@stthomaswhitemarsh/live",
+    "kind": "youtube",
+    "persistent": true,
+    "source": "https://www.stthomaswhitemarsh.org/worship-services",
+    "lastStreamed": "2026-10-30",
+    "checked": "2026-10-31"
+  },
+  "way/1136454948": {
+    "name": "Saints United Lutheran Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@saintsunitedlutheranchurch9745/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://saintsunitedlutheranchurch.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/538621855": {
+    "name": "Springfield Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@springfieldbaptistchurch7127/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://springfieldbaptist.net/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1096840848": {
+    "name": "St. Denis Catholic Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@saintdenischurch8472/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://saintdenis.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/338426286": {
+    "name": "St. George's United Methodist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@historicsaintgeorgesumc748/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.historicstgeorges.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/252221796": {
+    "name": "St. John Chrysostom Albanian Orthodox Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@stjohnchurch9395/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://stjcaoc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/708188304": {
+    "name": "St. John's Anglican Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@st.johnsanglicanchurchdigi6932/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.toknowchrist.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1449539401": {
+    "name": "St. Mark's Orthodox Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@stmarksoca/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.stmarksoca.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/866823157": {
+    "name": "St. Mary Magdalen Catholic Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@st.marymagdalen9494/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.stmarymagdalen.net/",
+    "lastStreamed": "2026-10-17",
+    "checked": "2026-10-31"
+  },
+  "node/989578470": {
+    "name": "St. Mary's Episcopal Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@stmaryswaynepa/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.stmaryswaynepa.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/334438130": {
+    "name": "St. Patrick Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@st.patrickchurchphiladelph4796/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.stpatrickphilly.org/",
+    "lastStreamed": "2026-10-19",
+    "checked": "2026-10-31"
+  },
+  "way/284939589": {
+    "name": "St. Paul Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@stpaulsbaptistchurchwestch280/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://stpaulsbaptist.org/",
+    "lastStreamed": "2026-10-28",
+    "checked": "2026-10-31"
+  },
+  "way/682989860": {
+    "name": "St. Paul Episcopal Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@st.paulsextonpa4724/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://stpaulsexton.com/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/1376901693": {
+    "name": "St. Timothy’s Lutheran Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@st.timothyslutheranchurch2727/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://sites.google.com/sttimsaston.com/elca",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/802704206": {
+    "name": "Swarthmore Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@swarthmorepresbyterianchur8140/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://swarthmorepres.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/152344924": {
+    "name": "The Baptist Church of West Chester",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@baptistchurchofwestchester4141/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.bcwc.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/14239779598": {
+    "name": "The Block Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@TheBlockChurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.theblockchurch.org/location/riverwards",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/283418918": {
+    "name": "The Foundry Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@foundrychurchtv/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.thefoundrychurch.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/152344615": {
+    "name": "The United Methodist Church of West Chester",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@umcwc/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.umcwc.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "node/357316590": {
+    "name": "Towamencin Mennonite Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@Towamencinmcsermons/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://towamencinmennonite.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/678030517": {
+    "name": "Trinity Assembly of God Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@TrinityAGWC/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://trinityag.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/1356144136": {
+    "name": "Trinity Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@TrinityBerwyn/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.trinityberwyn.com/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/357317963": {
+    "name": "Union Church",
+    "city": "philadelphia",
+    "url": "https://vimeo.com/event/5626274",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://www.auc.org/",
+    "checked": "2026-10-31"
+  },
+  "way/673941995": {
+    "name": "United Muslim Movement",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@unitedmuslimmasjid/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://ummonline.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/963558006": {
+    "name": "Urban Worship Center",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@urbanworshipcenter6950/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.urbanworshipcenter.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "way/705809811": {
+    "name": "Valley Forge Baptist",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@ValleyForgeBaptist/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://valleyforgebaptist.org/",
+    "lastStreamed": "2026-10-30",
+    "checked": "2026-10-31"
+  },
+  "way/1157302623": {
+    "name": "Valley View Community Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@valleyviewcommunitychurch8230/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.valleyviewseek.org/",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  },
+  "node/7537212132": {
+    "name": "Victory Church",
+    "city": "philadelphia",
+    "url": "https://phillychurch.online.church/",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://getvictory.net/online/",
+    "checked": "2026-10-31"
+  },
+  "relation/383495": {
+    "name": "Washington Memorial Chapel",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@WMCHAPELVIDEOS/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.wmchapel.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "node/357374355": {
+    "name": "Wayne Presbyterian",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@WaynePresbyterianChurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://waynepres.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "node/1481633280": {
+    "name": "Wayne United Methodist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@Wayneunitedmethodistchurch/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://wayneumc.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/152245336": {
+    "name": "West Chester Church of the Nazarene",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@wcnazarenepa4060/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://wcnazpa.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/683241789": {
+    "name": "West Chester Seventh-day Adventist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@wcpasda/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://westchesterpa.adventistchurch.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "way/284933564": {
+    "name": "Westminister Presbyterian Church",
+    "city": "philadelphia",
+    "url": "https://boxcast.tv/channel/rgdzj2kk5rswrqqnfbv8",
+    "kind": "platform",
+    "persistent": true,
+    "source": "https://www.westminsterpc.org/worship/worship-services/live-stream/",
+    "checked": "2026-10-31"
+  },
+  "way/450028078": {
+    "name": "Willistown United Methodist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/@willistownumc/streams",
+    "kind": "youtube",
+    "persistent": false,
+    "source": "https://www.willistownumc.org/",
+    "lastStreamed": "2026-10-31",
+    "checked": "2026-10-31"
+  },
+  "node/13427593834": {
+    "name": "Willow Grove Baptist Church",
+    "city": "philadelphia",
+    "url": "https://www.youtube.com/channel/UC9hEbBYqPCBi3IYj9vKMWBA/live",
+    "kind": "youtube",
+    "persistent": true,
+    "source": "https://www.willowgrovebaptist.org/watch",
+    "lastStreamed": "2026-10-26",
+    "checked": "2026-10-31"
+  }
+}

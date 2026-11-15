@@ -1,0 +1,22 @@
+# On the VPS: /opt/apps/seeker. Caddy (shared "web" network) proxies seeker.example.com → seeker-web:3000.
+services:
+  web:
+    build: .
+    container_name: seeker-web
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data
+    # Values come from /opt/apps/seeker/.env (never committed). See .env.example.
+    environment:
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
+      ADMIN_SECRET: ${ADMIN_SECRET:-}
+      SMTP_USER: ${SMTP_USER:-}
+      SMTP_PASS: ${SMTP_PASS:-}
+      CONTACT_TO: ${CONTACT_TO:-}
+    networks:
+      web:
+        aliases: [seeker-web]
+
+networks:
+  web:
+    external: true
